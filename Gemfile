@@ -32,7 +32,7 @@ gem 'spree_gateway', '~> 3.1.0.rc1'
 gem 'rails-footnotes', '~> 4.1', '>= 4.1.8'
 # Use Unicorn as the app server
 # gem 'unicorn'
-
+gem 'rails-footnotes', '~> 4.1', '>= 4.1.8'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
